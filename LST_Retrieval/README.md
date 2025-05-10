@@ -2,6 +2,14 @@
 
 This module contains Python code and notes for calculating Land Surface Temperature (LST) from Landsat 8/9 images using the single-channel algorithm.
 
+## 📊 Data Source
+
+All Landsat 8/9 images used in this project were downloaded from [USGS Earth Explorer](https://earthexplorer.usgs.gov/).
+
+- Scene ID: LC08_L1TP_120038_20150902_20200908_02_T1
+- Study Area: Nanjing, China
+- Acquisition years: 2015, 2017, 2019, 2021, 2023
+
 ## 📌 Features
 - Brightness temperature calculation from band 10
 - Emissivity estimation using NDVI-based method
