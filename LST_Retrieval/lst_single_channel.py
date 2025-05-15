@@ -88,7 +88,7 @@ def calculate_LST(folder, shp_path, use_clip=True):
     # Step 2: Single Channel LST
     a = -62.7182
     b = 0.4339
-    w = 2.580568  # water vapor
+    w = 2.580568  # water vapor(this data you acquire from the NASA)
     t = -0.1134 * w + 1.0035  # atmospheric transmittance
     C = t * epsilon
     D = (1 - t) * (1 + (1 - epsilon) * t)
