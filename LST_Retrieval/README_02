@@ -1,6 +1,7 @@
 # 🌡️ Land Surface Temperature (LST) Classification using Natural Breaks
 
-This script performs land surface temperature (LST) classification using the Natural Breaks (Jenks) method. It is designed for processing LST images (e.g., derived from Landsat) and generating a categorized image for visualization or further spatial analysis.
+This script performs land surface temperature (LST) classification using the Natural Breaks (Jenks) method. 
+It is designed for processing LST images (e.g., derived from Landsat) and generating a categorized image for visualization or further spatial analysis.
 
 ---
 
